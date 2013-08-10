@@ -1,0 +1,2 @@
+<Reg> <Value>
+MVI <Reg>,<Value>H

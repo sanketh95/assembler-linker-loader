@@ -1,0 +1,6 @@
+<Register> <Address>
+
+LXI H,<Address>
+MOV A,M
+ADD <Register>
+MOV <Register>,A

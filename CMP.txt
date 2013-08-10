@@ -1,0 +1,3 @@
+<Reg1> <Reg2>
+MOV A,<Reg1>
+CMP <Reg1>

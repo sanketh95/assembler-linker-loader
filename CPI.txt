@@ -1,0 +1,3 @@
+<Reg1> <Value>
+MOV A,<Reg1>
+CPI <Value>

@@ -1,0 +1,5 @@
+<B> <C>
+
+MOV A,<B>
+ADD <C>
+MOV <B>,A

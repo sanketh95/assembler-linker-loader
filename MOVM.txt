@@ -1,0 +1,4 @@
+<Register> <Address>
+
+LXI H,<Address>
+MOV <Register>,M

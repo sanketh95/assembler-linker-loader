@@ -1,0 +1,4 @@
+<address> <value>
+
+LXI H,<address>
+MVI M,<value>

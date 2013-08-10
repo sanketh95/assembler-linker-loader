@@ -1,0 +1,3 @@
+<Register1> <Register2>
+
+MOV <Register1>,<Register2>
